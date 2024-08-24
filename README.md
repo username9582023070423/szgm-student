@@ -1,0 +1,2 @@
+# szgm-student
+Personal website
